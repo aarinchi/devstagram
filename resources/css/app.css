@@ -1,0 +1,4 @@
+/* Importar componentes de tailwin */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
